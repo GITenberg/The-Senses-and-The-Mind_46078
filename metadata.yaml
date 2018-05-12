@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46078#The-Senses-and-The-Mind
 gutenberg_issued: '2014-06-23'
 gutenberg_type: Text
 identifiers:
